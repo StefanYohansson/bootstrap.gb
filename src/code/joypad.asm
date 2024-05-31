@@ -1,6 +1,6 @@
-BUTTONS = $10
-D_PAD   = $20
-DONE    = $30
+DEF BUTTONS = $10
+DEF D_PAD   = $20
+DEF DONE    = $30
 
 
 section "joypad", rom0

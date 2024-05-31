@@ -1,5 +1,5 @@
-GFX_QUEUE_LIMIT = 10
-GFX_QUEUE_LENGTH = 2 + 2 + 1
+DEF GFX_QUEUE_LIMIT = 10
+DEF GFX_QUEUE_LENGTH = 2 + 2 + 1
 
 
 section "gfx queue wram", wram0

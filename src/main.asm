@@ -3,11 +3,11 @@ include "constants.asm"
 
 section "Main", rom0
 
-START_TILE = 0
-X = 5
-Y = 7
-HEIGHT = 4
-WIDTH = 10
+DEF START_TILE = 0
+DEF X = 5
+DEF Y = 7
+DEF HEIGHT = 4
+DEF WIDTH = 10
 
 Main::
 	call .Setup
